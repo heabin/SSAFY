@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SSAFY 2018 to 2019"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Haebin Jo"
 description              : "samsung software acedemy for youth"
 url                      : "https://heabin.github.io"
 baseurl                  : "/SSAFY"
@@ -49,7 +49,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "heabin209@gmail.com"
   generatedFields:
     date:
       type               : # "date"
